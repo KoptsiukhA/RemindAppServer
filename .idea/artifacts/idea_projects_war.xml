@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="idea_projects:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="bel.kaistra.remidapp.server-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="idea_projects:war exploded" />
+    </root>
+  </artifact>
+</component>
